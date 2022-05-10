@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JasonEBaum
+- 👀 I’m interested in DevOps! DevOps evangelism. Community building. Podcasting.
+- 🌱 I’m currently learning devops leader. people powered, community building. 
+- 💞️ I’m looking to collaborate on growing a community of DevOps leaders and practitioners
+- 📫 How to reach me jason@devopsinstitute.com
